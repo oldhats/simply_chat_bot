@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot (Java)/task/build/
+/Simple Chatty Bot (Java)/task/out/
+/Simple Chatty Bot (Java)/task/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/

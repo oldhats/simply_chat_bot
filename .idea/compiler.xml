@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-classes-java" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-classes-java.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-classes-java.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-reports-tests" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-reports-tests.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-reports-tests.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-test-results" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-test-results.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-test-results.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-tmp" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-tmp.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task-build-tmp.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Simple_Chatty_Bot__Java_-task.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Chocolate" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Chocolate.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Chocolate.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Statements" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Statements.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Statements.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-The_condition_to_travel_around_the_world" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-The_condition_to_travel_around_the_world.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Theory" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Theory.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Conditional_statement-Theory.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Check_the_value" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Check_the_value.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Check_the_value.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Is_between" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Is_between.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Is_between.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Job_offer" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Job_offer.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Job_offer.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Theory" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Theory.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-Relational_operators-Theory.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-From_sum_to_product" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-From_sum_to_product.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-From_sum_to_product.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-Statements" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-Statements.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-Statements.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-The_count_of_numbers_divisible_by_N" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-The_count_of_numbers_divisible_by_N.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-The_count_of_numbers_divisible_by_N.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-The_product_of_numbers_from_a_to_b" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-The_product_of_numbers_from_a_to_b.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-The_product_of_numbers_from_a_to_b.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-Theory" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-Theory.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.Topics-The_for-loop-Theory.test" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.util" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.util.main" target="17" />
+      <module name="Simple_Chatty_Bot_(Java)2.util.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
